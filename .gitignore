@@ -1,0 +1,7 @@
+# ESP-IDF build output and downloaded components
+/build/
+/managed_components/
+
+# Local configuration. Share project settings through sdkconfig.defaults.
+/sdkconfig
+/sdkconfig.old
